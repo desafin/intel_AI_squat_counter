@@ -9,7 +9,6 @@
 
 ## Requirement
 
-* (프로젝트를 실행시키기 위한 최소 requirement들에 대해 기술)
 CPU:	Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz
 memory:	32.0GB
 GPU:Intel(R) UHD Graphics 630
@@ -18,15 +17,13 @@ GPU:Intel(R) UHD Graphics 630
 
 ## Clone code
 
-* (Code clone 방법에 대해서 기술)
+
 
 ```shell
 git clone https://github.com/desafin/intel_AI_squat_counter
 ```
 
 ## Prerequite
-
-* (프로잭트를 실행하기 위해 필요한 dependencies 및 configuration들이 있다면, 설치 및 설정방법에 대해 기술)
 
 
 ```shell
@@ -45,6 +42,3 @@ main.py 를 실행하기
 ![./images/result.png](./images/result.png)
 ![./images/result1.png](./images/result1.png)
 
-## Appendix
-
-* (참고 자료 및 알아두어야할 사항들 기술)
