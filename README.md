@@ -30,12 +30,7 @@ git clone https://github.com/desafin/intel_AI_squat_counter
 
 
 ```shell
-
-conda activate projectname
-conda env export > squt_counte_conda_env.yaml
 pip install -r requirements.txt
-
-
 ```
 
 
